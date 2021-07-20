@@ -5,7 +5,7 @@
 
 # About Me
 
-Hi everyone! My name is Harsh Kothari and currently I am studying Software Engineering at the University of Alberta. 
+Hi everyone! My name is Harsh Kothari and currently I am currently a second year Software Engineering student at the University of Alberta. 
 
 Currently, I am learning about interactive web development through the “Web Design For Everybody” set of 5 courses offered by the University of Michigan through Coursera.
 
