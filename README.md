@@ -7,7 +7,7 @@
 
 Hi everyone! My name is Harsh Kothari and currently I am currently a Software Engineering student of the graduating class of 2025 at the University of Alberta. 
 
-I currently am working as an NSERC USRA research assistant working on an adaptive learning project from Athabasca University. More specifically, I am designing a question bank management system with adaptive learning capatiblities using React.js, Node.js, Express.js and PostgreSQL. 
+My most recent work experience was as a NSERC USRA research assistant working on an adaptive learning project from Athabasca University. More specifically, I was designing a question bank management system with adaptive learning capatiblities using React.js, Node.js, Express.js and PostgreSQL. 
 
 Along with working, I try to apply my skills through some various projects, many of which are on GitHub. Feel free to take a look at the projects :)
 
